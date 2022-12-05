@@ -9,3 +9,7 @@ class Food_Recipe():
         self._name = None
         self._keywords = None
         self._cost = None
+
+    def update_recipes(self):
+
+        ...
